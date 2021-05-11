@@ -45,3 +45,4 @@ tracing = { version = "0.1", features = ['log'] }
 
 [dev-dependencies]
 rstest = "0.6"
+env_logger = "0.8"
